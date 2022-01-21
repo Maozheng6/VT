@@ -13,42 +13,12 @@ Editing operations such as cut, copy, paste, and correcting errors in typed text
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=338270684&bvid=BV11R4y1M7yk&cid=489128655&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 ## Publication
-
-
 Maozheng Zhao, Wenzhe Cui, I.V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. 2021. [Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones.](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST ’21), October 10–14, 2021, Virtual Event, USA. ACM, New York, NY, USA, 17 pages. https://doi.org/10.1145/3472749.3474742
 
-You can use the [editor on GitHub](https://github.com/Maozheng6/VT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Contact
+For questions and further information, please contact:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Maozheng Zhao
 
-### Markdown
+maozheng.zhao@stonybrook.edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Maozheng6/VT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
