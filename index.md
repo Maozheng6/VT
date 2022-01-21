@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jfJ1r8vzGCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+Editing operations such as cut, copy, paste, and correcting errors in typed text is often tedious and challenging to perform on smartphones. In this paper, we present VT, a voice and touch-based multi-modal text editing and correction method for smartphones. To edit text with VT, the user glides over a text fragment with a finger and dictates a command, such as "bold" to change the format of the fragment, or the user can tap inside a text area and speak a command such as "highlight this paragraph" to edit the text. For text correcting, the user taps approximately at the area of erroneous text fragment and dictates the new content for substitution or insertion. VT combines touch and voice inputs with language context such as language model and phrase similarity to infer a user's editing intention, which can handle ambiguities and noisy input signals. It is a great advantage over the existing error correction methods (e.g., iOS’s Voice Control) which require precise cursor control or text selection. Our evaluation shows that VT significantly improves the efficiency of text editing and text correcting on smartphones over the touch-only method and the iOS’s Voice Control method. Our user studies showed that VT reduced the text editing time by 30.80%, and text correcting time by 29.97% over the touch-only method., and reduced the text editing time by 30.81%, and text correcting time by 47.96% over the iOS’s Voice Control method.
 
 You can use the [editor on GitHub](https://github.com/Maozheng6/VT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
