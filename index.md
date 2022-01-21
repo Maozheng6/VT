@@ -1,4 +1,6 @@
 # Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
+![VT teaser]()
+
 <p align="center"> 
  <iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=210774558&bvid=BV1ma411275k&cid=489130990&page=1" scrolling="no" border="0" title="VT Preview" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
