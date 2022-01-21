@@ -1,6 +1,6 @@
 # Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
 Maozheng Zhao<sup>1</sup>, Wenzhe Cui<sup>1</sup>, I.V. Ramakrishnan<sup>1</sup>, Shumin Zhai<sup>2</sup>, Xiaojun Bi<sup>1</sup>
-![affiliation](Screen Shot 2022-01-21 at 3.08.00 AM.png)
+![affiliation](affiliation.png)
 ![VT teaser](VT_teaser_cropped.png)
 ## Video Preview (30 seconds)
 <p align="center"> 
