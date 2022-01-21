@@ -23,9 +23,6 @@ Editing operations such as cut, copy, paste, and correcting errors in typed text
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=680779301&bvid=BV1GS4y177gw&cid=489130506&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
-<p align="center"> 
-<iframe src="//player.bilibili.com/player.html?aid=680779301&bvid=BV1GS4y177gw&cid=489130506&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</p>
 ## Publication
 Maozheng Zhao, Wenzhe Cui, I.V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. 2021. [Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones.](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST ’21), October 10–14, 2021, Virtual Event, USA. ACM, New York, NY, USA, 17 pages. https://doi.org/10.1145/3472749.3474742
 
