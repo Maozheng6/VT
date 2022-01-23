@@ -6,7 +6,7 @@ Maozheng Zhao<sup>1</sup>, Wenzhe Cui<sup>1</sup>, I.V. Ramakrishnan<sup>1</sup>
 ## Video Preview (30 seconds)
 
 <p align="center"> 
- <iframe iframe width="800" src="//player.bilibili.com/player.html?aid=210774558&bvid=BV1ma411275k&cid=489130990&page=1" scrolling="no" border="0" title="VT Preview" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+ <iframe iframe width="784" height="441" src="//player.bilibili.com/player.html?aid=210774558&bvid=BV1ma411275k&cid=489130990&page=1" scrolling="no" border="0" title="VT Preview" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
 ## Abstract
@@ -14,12 +14,12 @@ Editing operations such as cut, copy, paste, and correcting errors in typed text
 
 ## Paper presentation (9 minutes)
 <p align="center"> 
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=338270684&bvid=BV11R4y1M7yk&cid=489128655&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="784" height="441" src="//player.bilibili.com/player.html?aid=338270684&bvid=BV11R4y1M7yk&cid=489128655&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
 ## More Demos (5 minutes)
 <p align="center"> 
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=680779301&bvid=BV1GS4y177gw&cid=489130506&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="784" height="441" src="//player.bilibili.com/player.html?aid=680779301&bvid=BV1GS4y177gw&cid=489130506&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
 ## Publication
