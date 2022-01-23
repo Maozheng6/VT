@@ -1,13 +1,12 @@
 # Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
-Maozheng Zhao<sup>1</sup>, Wenzhe Cui<sup>1</sup>, I.V. Ramakrishnan<sup>1</sup>, Shumin Zhai<sup>2</sup>, Xiaojun Bi<sup>1</sup>
-
+Maozheng Zhao<sup>1</sup>, Wenzhe Cui<sup>1</sup>, I.V. Ramakrishnan<sup>1</sup>, Shumin Zhai<sup>2</sup>, Xiaojun Bi<sup>1</sup> <br/>
 <sup>1</sup>Stony Brook University, <sup>2</sup>Google LLC
 
 ![VT teaser](VT_teaser_cropped.png)
 ## Video Preview (30 seconds)
 
 <p align="center"> 
- <iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=210774558&bvid=BV1ma411275k&cid=489130990&page=1" scrolling="no" border="0" title="VT Preview" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+ <iframe src="//player.bilibili.com/player.html?aid=210774558&bvid=BV1ma411275k&cid=489130990&page=1" scrolling="no" border="0" title="VT Preview" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
 ## Abstract
