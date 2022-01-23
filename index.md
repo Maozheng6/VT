@@ -14,7 +14,7 @@ Editing operations such as cut, copy, paste, and correcting errors in typed text
 
 ## Paper presentation (9 minutes)
 <p align="center"> 
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=338270684&bvid=BV11R4y1M7yk&cid=489128655&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="561" height="316" src="//player.bilibili.com/player.html?aid=338270684&bvid=BV11R4y1M7yk&cid=489128655&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
 ## More Demos (5 minutes)
