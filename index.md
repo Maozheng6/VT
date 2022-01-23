@@ -19,7 +19,7 @@ Editing operations such as cut, copy, paste, and correcting errors in typed text
 
 ## More Demos (5 minutes)
 <p align="center"> 
-<iframe width="784" height="441" src="//player.bilibili.com/player.html?aid=680779301&bvid=BV1GS4y177gw&cid=489130506&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="672" height="350" src="//player.bilibili.com/player.html?aid=680779301&bvid=BV1GS4y177gw&cid=489130506&page=1" scrolling="no" border="0" title="VT presentation" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
 ## Publication
