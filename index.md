@@ -27,6 +27,6 @@ Editing operations such as cut, copy, paste, and correcting errors in typed text
 Maozheng Zhao, Wenzhe Cui, I.V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. 2021. [Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones.](VT.pdf) In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST ’21), October 10–14, 2021, Virtual Event, USA. ACM, New York, NY, USA, 17 pages. https://doi.org/10.1145/3472749.3474742
 
 ## Contact
-For questions and further information, please contact:
+For questions and further information, please contact:<br/>
 Maozheng Zhao  Email: maozheng.zhao@stonybrook.edu
 
