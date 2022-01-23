@@ -28,5 +28,6 @@ Maozheng Zhao, Wenzhe Cui, I.V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. 2021.
 
 ## Contact
 For questions and further information, please contact:<br/>
-Maozheng Zhao  Email: maozheng.zhao@stonybrook.edu
+Maozheng Zhao<br/>
+Email: maozheng.zhao@stonybrook.edu
 
